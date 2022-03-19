@@ -63,7 +63,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 2. 上传文件到新文件夹：打开任意文件夹，点击绿色Download按钮旁的upload，**把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车**，上传你的文件。
 
 ## 下载
- - 国内访问github速度不尽如意，推荐复制该文件夹的网址后，使用[DownloadGit](https://minhaskamal.github.io/DownGit/#/home)下载。
+ - 国内访问github速度不尽如意，推荐复制该文件夹的网址后，使用[fastgit](https://gh.api.99988866.xyz/)下载。
 
 ### 警告
 
@@ -97,8 +97,6 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 ## Related Works
 
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
-- [气垫船计划——免费、去中心化的北京大学往年题资料库](https://github.com/martinwu42/project-hover)
-- [北京大学信科学生会学术部资料库](https://github.com/EECS-PKU-XSB/Shared-learning-materials)
 - [北大计算机课程大作业](https://github.com/tongtzeho/PKUCourse)
 - [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 - [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
@@ -109,8 +107,3 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 - [华南师范大学计算机学院 - 0xFFFF CS Wiki](https://www.yuque.com/0xffff.one/cs-learning)
 
 (more to be added....)
-
-## 联系方式
-everrwsr@outlook.com
-
-
