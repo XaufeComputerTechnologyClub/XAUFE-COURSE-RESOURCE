@@ -1,0 +1,2 @@
+# XAUFE-COURSE-RESOURCE
+a test
