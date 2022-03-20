@@ -14,13 +14,20 @@
 
 我希望只要是前人走过的弯路，后人就不必再走。这是我的信念，也是我建立这个项目的原因。
 
+至于正在阅读这个界面的你，希望你也可以开心度过自己的大学四年，希望你也会有自己的想法要与后人分享，希望你也可以自信地将其重新拿起：“新的一版，由我来执笔。”
+
 ## 特性
 
 本项目至今为止收录了以下内容：
 
-- 电子版教材
+- 电子版教材（逐步添加中）
 - 历年试卷
 - 复习资料
+- 校友个人项目推荐
+
+## 欢迎推荐自己的项目还有博客
+ - [chenboshuo的自荐项目](https://github.com/XaufeComputerTechnologyClub/XAUFE-COURSE-RESOURCE/blob/main/%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90.md)
+  > 主要为latex模板，包括建模美赛，国赛，还有毕业设计模板。
 
 
 ## 平台
@@ -109,7 +116,9 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 - [华南师范大学计算机学院 - 0xFFFF CS Wiki](https://www.yuque.com/0xffff.one/cs-learning)
 
 (more to be added....)
+
+
 ## 联系方式
  - 邮箱everrwsr@outlook.com
- - qq 1943608139
+ - qq: 1943608139
 
