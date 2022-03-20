@@ -26,7 +26,7 @@
 - 校友个人项目推荐
 
 ## 欢迎推荐自己的项目还有博客
- - [chenboshuo的自荐项目](https://github.com/XaufeComputerTechnologyClub/XAUFE-COURSE-RESOURCE/blob/main/%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90.md)
+ - [chenboshuo的自荐项目](https://github.com/XaufeComputerTechnologyClub/XAUFE-COURSE-RESOURCE/blob/main/%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90.md)，他的[个人主页](https://orcid.org/0000-0002-0028-4977)
   > 主要为latex模板，包括建模美赛，国赛，还有毕业设计模板。
 
 
