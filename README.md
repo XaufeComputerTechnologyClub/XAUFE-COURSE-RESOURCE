@@ -26,12 +26,14 @@
 - 历年试卷
 - 复习资料
 - 校友个人项目推荐
+- 前行者的建议（考虑中）
 
 ## 欢迎推荐自己的项目还有博客
 
 - [chenboshuo 的自荐项目](https://github.com/XaufeComputerTechnologyClub/XAUFE-COURSE-RESOURCE/blob/main/%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90.md)，他的[个人主页](https://orcid.org/0000-0002-0028-4977)
 
 > 主要为 latex 模板，包括建模美赛，国赛，还有毕业设计模板。
+> 一个人是一个人，他做的事是他的事。
 
 ## 平台
 
@@ -39,8 +41,8 @@
 
 - QQ 群大多为年级和专业所分隔，无法长期共同地保有；况且群文件也缺乏组织。
 - GitHub 项目可以使用目录进行文件组织，并且每个目录均可以在显示文件列表的同时显示一个 README，十分适合本项目的需求。
-- GitHub 带有便捷的 Issue 和 Pull Request 协作功能，并且可以方便地对贡献的质量进行监督和调整。
-- 如果您不方便使用 github,可以通过邮箱everrwsr@outlook.com和 qq 联系我。
+- GitHub 带有便捷的 Issue 和 Pull Request 协作功能，这几年也拥有了一个论坛功能，不仅可以方便地对贡献的质量进行监督和调整，也方便我们交流。
+- 如果您不方便使用 github,可以通过邮箱everrwsr@outlook.com和 qq：1943608139 联系我。
 
 ## 贡献
 
@@ -58,7 +60,8 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ## 已贡献名单
 
-- 19 级程驰学长
+- 19 级程驰学长贡献的计量经济学，数据结构和算法资料
+- ruisui 贡献的抽样设计和数据挖掘资料
 
 感谢这些好心人，向他们致敬。
 
@@ -127,5 +130,5 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 ## 联系方式
 
-- 邮箱everrwsr@outlook.com
+- 邮箱：everrwsr@outlook.com
 - qq: 1943608139
