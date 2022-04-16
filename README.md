@@ -50,11 +50,11 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 来自大家的关注、维护和贡献，才是让项目继续存在的动力~
 
 ## 已贡献名单
-- [张翰冰(软件2001)](https://github.com/everrwsr)：
+- [张翰冰(软件2001)](https://github.com/everrwsr):
   - 项目发起人  
-- [程驰(计本1902)](https://github.com/cc200723)：
+- [程驰(计本1902)](https://github.com/cc200723):
   - [计量经济学，数据结构，算法](https://github.com/XaufeComputerTechnologyClub/XAUFE-COURSE-RESOURCE/commit/e803234aed98634fa06130d6ba289f000e77e1cb)
-- [屈瑞凯(经统1801)](https://github.com/ruishuQU) 
+- [屈瑞凯(经统1801)](https://github.com/ruishuQU):
   - [抽样设计,数据挖掘](https://github.com/XaufeComputerTechnologyClub/XAUFE-COURSE-RESOURCE/commit/5666716cf0b4d1b3c2d3713ca4394d9def26ae8a)
 
 感谢这些好心人，向他们致敬。
