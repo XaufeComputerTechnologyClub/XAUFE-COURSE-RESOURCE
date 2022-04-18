@@ -1,8 +1,5 @@
 # 西安财经大学课程攻略共享计划
 
-
-
-> [在线阅读地址](https://xaufecomputertechnologyclub.github.io/XAUFE-COURSE-RESOURCE)
 ## 前言
 
 （引用自 QSCTech/zju-icicles ）
